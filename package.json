@@ -1,0 +1,12 @@
+{
+  "name": "eleventy-decap-mvp",
+  "version": "1.0.0",
+  "description": "MVP con Eleventy y Decap CMS para despliegue en Cloudflare Pages",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+} 
